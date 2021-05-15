@@ -59,6 +59,8 @@ export default {
 #app{
   position: relative;
   overflow: hidden;
+  max-width: 1600px;
+  margin: auto;
 }
 .bg-app{
   position: absolute;
